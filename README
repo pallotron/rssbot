@@ -1,0 +1,20 @@
+RSSBOT
+======
+
+This is a (stupid) rss bot i wrote in perl. It is used to get a list of
+RSS feed and advice one or more channels when something new is published.
+
+pallotron@freaknet.org
+
+
+INSTALLATION
+============
+
+Installation guide.
+
+# cpan XML::Feed
+# cpan Bot::BasicBot
+
+install all the dependencies.
+this is done responding "yes" to all the questions when asked
+
